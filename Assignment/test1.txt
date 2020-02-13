@@ -1,6 +1,0 @@
-Next: Red
-o:a4
-x:b5
-o:e6
-x:d7
-x:h1
